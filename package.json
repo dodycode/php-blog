@@ -1,0 +1,20 @@
+{
+  "name": "php-blog",
+  "version": "1.0.0",
+  "description": "simple blog made with tailwind css and php",
+  "main": "assets/js/app.js",
+  "dependencies": {},
+  "devDependencies": {
+    "tailwindcss": "^1.0.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "blog",
+    "php",
+    "tailwind"
+  ],
+  "author": "dodycode",
+  "license": "ISC"
+}
